@@ -22,6 +22,8 @@ public class Ex17 {
 		
 		System.out.println("구의 부피는 : "+area);
 		
+		System.out.println("깃 테스트 버전2");
+		
 		sc.close();
 		
 	}
