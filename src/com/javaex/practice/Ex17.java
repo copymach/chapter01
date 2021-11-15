@@ -24,6 +24,10 @@ public class Ex17 {
 		
 		System.out.println("깃 테스트 버전2");
 		
+		System.out.println("깃 테스트 버전4");
+		System.out.println("깃 테스트 버전4");
+		
+		
 		sc.close();
 		
 	}
