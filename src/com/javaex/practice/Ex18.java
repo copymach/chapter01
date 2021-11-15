@@ -23,5 +23,7 @@ public class Ex18 {
 		
 		sc.close();
 		
+		System.out.println("테스트5");
+		
 	}
 }
