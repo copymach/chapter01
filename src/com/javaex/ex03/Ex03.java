@@ -7,6 +7,7 @@ public class Ex03 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+//		숫자를 음수 양수 구분하기
 		
 		
 		Scanner sc = new Scanner(System.in);
